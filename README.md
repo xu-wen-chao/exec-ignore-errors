@@ -2,6 +2,8 @@
 
 Run a CLI command ignoring any errors. This package is useful when you run a command and cannot make sure it works correctly, but you don‘t want anything else to be interrupted.
 
+[![license](https://img.shields.io/github/license/xu-wen-chao/exec-ignore-errors)](https://github.com/xu-wen-chao/exec-ignore-errors/blob/master/LICENSE)
+
 ## Installation
 
 ```sh

@@ -12,13 +12,13 @@ npm i exec-ignore-errors
 
 ## Example
 
-Use this in the shell.
+Use in the shell.
 
 ```
 exec-ignore-errors node 1.js
 ```
 
-Use this in the npm script.
+Use in the npm script.
 
 ```
 {

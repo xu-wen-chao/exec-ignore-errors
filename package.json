@@ -9,6 +9,9 @@
   "bin": {
     "exec-ignore-errors": "./index.js"
   },
+  "files": [
+    "index.js"
+  ],
   "keywords": [
     "Run",
     "command",
